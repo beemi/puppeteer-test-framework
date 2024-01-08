@@ -3,9 +3,9 @@ const expect = require("chai").expect;
 
 const faker = require("faker");
 
-const HomePage = require('../Pages/HomePage');
-const AuthenticationPage = require("../Pages/AuthenticationPage");
-const CreateAnAccountPage = require("../Pages/CreateAnAccountPage");
+const HomePage = require('../pages/HomePage');
+const AuthenticationPage = require("../pages/AuthenticationPage");
+const CreateAnAccountPage = require("../pages/CreateAnAccountPage");
 
 const homePage = new HomePage();
 const authenticationPage = new AuthenticationPage();

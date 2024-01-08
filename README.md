@@ -1,6 +1,8 @@
-# puppeteer-test-framework-example
+# 🌟puppeteer-test-framework-example🌟
 
-Automation test framework using [puppeter](https://pptr.dev/)
+![alt text](docs/img.png)
+
+This repository contains the UI automation framework for the 🌐 simple web application using 🎭 Puppeteer & mocha.
 
 ## Contact
 [beemi.raja@gmail.com](beemi.raja@gmail.com)
